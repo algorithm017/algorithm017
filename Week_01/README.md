@@ -41,6 +41,8 @@ https://git-scm.com/book/zh/v2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E7%9A%84-Git
 
     git checkout "name"
 
+    git push origin "name"
+
 ```
 
 ## 2、学习心得
